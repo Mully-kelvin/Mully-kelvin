@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Muli
+## Hi there👋, I'm Muli
 
 📖 Computer Science student at Kabarak University<br>
 🧑🏾‍💻 I build custom front-end interfaces with mordern, theme based design<br>
